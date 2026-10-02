@@ -1,0 +1,10 @@
+vanna[fastapi,openai]>=2.0.0
+python-dotenv
+groq
+pinecone
+pydantic
+pydantic-settings
+uvicorn
+fastapi
+sentence-transformers
+

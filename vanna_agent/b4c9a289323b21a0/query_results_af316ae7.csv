@@ -1,0 +1,8 @@
+sql
+"CREATE TABLE product_table (
+	name VARCHAR NOT NULL, 
+	price FLOAT NOT NULL, 
+	stock INTEGER NOT NULL, 
+	id INTEGER NOT NULL, 
+	PRIMARY KEY (id)
+)"

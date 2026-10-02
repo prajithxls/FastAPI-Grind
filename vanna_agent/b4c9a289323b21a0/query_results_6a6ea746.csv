@@ -1,0 +1,52 @@
+id,name,price,stock
+1,Apple iPhone 15 Pro Max (256GB),159900.0,100
+13,Samsung Galaxy Z Fold 5,154999.0,15
+23,OnePlus Open,139999.0,10
+2,Apple iPhone 15 Pro (256GB),134900.0,30
+6,Samsung Galaxy S24 Ultra,129999.0,25
+15,Google Pixel 8 Pro,106999.0,18
+7,Samsung Galaxy S24+,99999.0,40
+14,Samsung Galaxy Z Flip 5,99999.0,22
+25,Xiaomi 14 Ultra,99999.0,20
+37,Oppo Find N3 Flip,94999.0,14
+31,Vivo X100 Pro,89999.0,25
+18,Google Pixel 7 Pro,84999.0,12
+8,Samsung Galaxy S24,79999.0,60
+3,Apple iPhone 15 (128GB),79900.0,120
+16,Google Pixel 8,75999.0,35
+26,Xiaomi 14,69999.0,55
+4,Apple iPhone 14 (128GB),69900.0,85
+19,OnePlus 12 5G,64999.0,80
+32,Vivo X100,63999.0,40
+24,OnePlus 11 5G,56999.0,45
+9,Samsung Galaxy S23 FE,54999.0,150
+5,Apple iPhone 13 (128GB),52999.0,200
+17,Google Pixel 7a,43999.0,75
+33,Vivo V30 Pro 5G,41999.0,95
+10,Samsung Galaxy A55 5G,39999.0,90
+20,OnePlus 12R,39999.0,140
+38,Oppo Reno 11 Pro 5G,39999.0,70
+34,Vivo V30 5G,33999.0,130
+27,Redmi Note 13 Pro+ 5G,31999.0,180
+47,Motorola Edge 50 Pro,31999.0,85
+11,Samsung Galaxy A35 5G,30999.0,110
+22,OnePlus Nord 3 5G,29999.0,65
+30,Poco F5 5G,29999.0,85
+39,Oppo Reno 11 5G,29999.0,105
+42,Realme 12 Pro+ 5G,29999.0,115
+12,Samsung Galaxy M55 5G,26999.0,250
+29,Poco X6 Pro 5G,26999.0,220
+43,Realme 12 Pro 5G,25999.0,145
+21,OnePlus Nord CE 4 5G,24999.0,300
+40,Oppo F25 Pro 5G,23999.0,190
+48,Motorola Edge 40 Neo,22999.0,125
+36,Vivo Y200 5G,21999.0,160
+44,Realme 12+ 5G,20999.0,230
+35,Vivo T3 5G,19999.0,275
+41,Oppo A79 5G,19999.0,210
+45,Realme Narzo 70 Pro 5G,19999.0,310
+49,Motorola Moto G84 5G,18999.0,170
+28,Redmi Note 13 5G,17999.0,400
+50,Motorola Moto G34 5G,10999.0,380
+46,Realme C65 5G,10499.0,450
+51,iPhone 17 Pro,1199.99,15
